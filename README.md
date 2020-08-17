@@ -1,10 +1,10 @@
 ## Installing Project
 
-### `npx create-react-app pakebook --template typescript node-sass axios redux redux-thunk`
+#### `npx create-react-app pakebook --template typescript node-sass axios redux redux-thunk`
 
 //dependence with typescript
 
-### `npm i @types/react-router-dom @types/react-redux @types/styled-components @types/js-cookie`
+#### `npm i @types/react-router-dom @types/react-redux @types/styled-components @types/js-cookie`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
